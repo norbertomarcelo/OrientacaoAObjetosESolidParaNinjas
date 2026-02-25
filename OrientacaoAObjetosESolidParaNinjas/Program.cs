@@ -1,5 +1,5 @@
-﻿using Problema = OrientacaoAObjetosESolidParaNinjas.CapituloDois.Problema;
-using Solucao = OrientacaoAObjetosESolidParaNinjas.CapituloDois.Solucao;
+﻿using Problema = OrientacaoAObjetosESolidParaNinjas.Capitulo02.Problema;
+using Solucao = OrientacaoAObjetosESolidParaNinjas.Capitulo02.Solucao;
 
 // Implementação do código sugeriodo na pag. 6
 var calculadoraDeSalarioP = new Problema.CalculadoraDeSalario();

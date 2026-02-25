@@ -1,6 +1,4 @@
-﻿using OrientacaoAObjetosESolidParaNinjas.CapituloDois.Problema;
-
-namespace OrientacaoAObjetosESolidParaNinjas.CapituloDois.Solucao;
+﻿namespace OrientacaoAObjetosESolidParaNinjas.Capitulo02.Solucao;
 
 public class DezOuVintePorcento : IRegraDeCalculo
 {

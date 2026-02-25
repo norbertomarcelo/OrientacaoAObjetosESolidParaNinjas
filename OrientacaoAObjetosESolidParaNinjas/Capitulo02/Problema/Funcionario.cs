@@ -1,4 +1,4 @@
-﻿namespace OrientacaoAObjetosESolidParaNinjas.CapituloDois.Problema;
+﻿namespace OrientacaoAObjetosESolidParaNinjas.Capitulo02.Problema;
 
 public class Funcionario
 {

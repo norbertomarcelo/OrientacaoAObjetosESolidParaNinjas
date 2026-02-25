@@ -1,4 +1,4 @@
-﻿namespace OrientacaoAObjetosESolidParaNinjas.CapituloDois.Solucao;
+﻿namespace OrientacaoAObjetosESolidParaNinjas.Capitulo02.Solucao;
 
 public class CalculadoraDeSalario
 {
